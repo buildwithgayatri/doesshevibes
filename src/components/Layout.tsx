@@ -56,7 +56,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="p-5 border-b border-rose-100">
           <div className="flex items-center gap-2">
             <img
-              src="/images/SheeshWay_Logo.jpeg"
+              src="https://imgland.net/i/m4OL3rl9/sheeshway_logo_edited.png"
               alt="SheeshWay"
               className="w-9 h-9 rounded-xl object-cover"
             />
