@@ -115,7 +115,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <div className="md:hidden fixed top-0 left-0 right-0 z-50 bg-white border-b border-rose-100 px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <img
-            src="/images/SheeshWay_Logo.jpeg"
+            src="https://imgland.net/i/m4OL3rl9/sheeshway_logo_edited.png"
             alt="SheeshWay"
             className="w-8 h-8 rounded-lg object-cover"
           />
